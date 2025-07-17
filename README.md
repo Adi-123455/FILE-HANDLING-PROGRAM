@@ -28,3 +28,7 @@ The main() function presents a menu to the user inside a loop that continues unt
 Throughout the program, basic input validation and error handling are used to ensure the program behaves correctly. It also uses getchar() before fgets() to clear the newline character left in the input buffer, which is a common practice when mixing scanf() and fgets().
 
 In conclusion, this file management program is a well-structured, beginner-friendly project that demonstrates essential file handling techniques in C. It’s an excellent foundation for learners to grasp how to interact with files using C and can be expanded with more features like renaming files, handling directories, and supporting multi-line input.
+
+*OUTPUT*:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5ba6bed2-3669-4806-b9bc-ad48d031911d" />
